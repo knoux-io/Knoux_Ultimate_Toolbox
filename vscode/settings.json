@@ -1,0 +1,126 @@
+{
+  "knox.ultimate.toolbox": {
+    "version": "1.0.0",
+    "theme": "electric-blue",
+    "language": "ar",
+    "autoBackup": true,
+    "debugMode": false,
+    "performanceMonitoring": true
+  },
+  "editor": {
+    "fontFamily": "Consolas, 'Courier New', monospace",
+    "fontSize": 14,
+    "lineHeight": 1.4,
+    "tabSize": 4,
+    "insertSpaces": true,
+    "wordWrap": "on",
+    "minimap": {
+      "enabled": true,
+      "scale": 0.8
+    },
+    "rulers": [80, 120],
+    "renderWhitespace": "selection",
+    "renderControlCharacters": false,
+    "bracketPairColorization": {
+      "enabled": true
+    }
+  },
+  "workbench": {
+    "colorTheme": "KNOX Electric Blue",
+    "iconTheme": "knox-icons",
+    "fontFamily": "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif",
+    "editor.titleBarSizing": "medium",
+    "commandCenter": {
+      "enabled": true
+    },
+    "layout": {
+      "menuBar": {
+        "position": "top"
+      },
+      "activityBar": {
+        "position": "left",
+        "size": "compact"
+      },
+      "sideBar": {
+        "position": "left",
+        "width": 300
+      }
+    }
+  },
+  "files": {
+    "autoSave": "afterDelay",
+    "autoSaveDelay": 1000,
+    "defaultLanguage": "batch",
+    "encoding": "utf8",
+    "eol": "\r\n",
+    "trimTrailingWhitespace": true,
+    "insertFinalNewline": true,
+    "trimFinalNewlines": true,
+    "associations": {
+      "*.bat": "batch",
+      "*.cmd": "batch",
+      "*.knox": "batch"
+    }
+  },
+  "terminal": {
+    "integrated": {
+      "fontFamily": "Consolas",
+      "fontSize": 12,
+      "lineHeight": 1.2,
+      "cursorBlinking": "blink",
+      "cursorStyle": "block",
+      "scrollback": 10000,
+      "commandsToSkipShell": [
+        "workbench.action.terminal.focus",
+        "workbench.action.terminal.focusNext",
+        "workbench.action.terminal.focusPrevious",
+        "workbench.action.terminal.kill",
+        "workbench.action.terminal.runSelectedText"
+      ]
+    }
+  },
+  "extensions": {
+    "autoUpdate": true,
+    "ignoreRecommendations": false,
+    "recommendations": [
+      "ms-vscode.batch",
+      "ms-vscode.powershell",
+      "redhat.vscode-yaml",
+      "ms-vscode.vscode-json",
+      "bradlc.vscode-tailwindcss",
+      "formulahendry.auto-rename-tag",
+      "christian-kohler.path-intellisense"
+    ]
+  },
+  "search": {
+    "exclude": {
+      "**/node_modules": true,
+      "**/bower_components": true,
+      "**/*.code-search": true,
+      "**/backups": true,
+      "**/cache": true,
+      "**/logs": true
+    },
+    "quickOpen": {
+      "exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.code-search": true
+      }
+    }
+  },
+  "debug": {
+    "console": "integratedTerminal",
+    "internalConsoleOptions": "neverOpen",
+    "allowBreakpointsEverywhere": true,
+    "disableDebuggerValueFormatting": false
+  },
+  "knox": {
+    "toolboxPath": "F:\\KNOX_ULTIMATE_TOOLBOX",
+    "backupPath": "F:\\KNOX_ULTIMATE_TOOLBOX\\vscode\\backups",
+    "logPath": "F:\\KNOX_ULTIMATE_TOOLBOX\\vscode\\logs",
+    "cachePath": "F:\\KNOX_ULTIMATE_TOOLBOX\\vscode\\cache",
+    "configPath": "F:\\KNOX_ULTIMATE_TOOLBOX\\vscode\\config",
+    "modulesPath": "F:\\KNOX_ULTIMATE_TOOLBOX\\vscode\\modules"
+  }
+}

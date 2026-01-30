@@ -1,0 +1,17 @@
+{
+  "description": "14 DOCUMENTATION tools and utilities",
+  "author": "Knoux Platform Team",
+  "updated_at": "2026-01-29",
+  "icon": "",
+  "category": "documentation",
+  "tags": [
+    "documentation"
+  ],
+  "dependencies": [],
+  "created_at": "2026-01-29",
+  "name": "14 DOCUMENTATION",
+  "estimated_time": "Variable",
+  "requires_reboot": false,
+  "requires_admin": false,
+  "version": "2.0.0"
+}

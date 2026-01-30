@@ -1,0 +1,17 @@
+{
+  "description": "08 TWEAKS tools and utilities",
+  "author": "Knoux Platform Team",
+  "updated_at": "2026-01-29",
+  "icon": "",
+  "category": "system",
+  "tags": [
+    "system"
+  ],
+  "dependencies": [],
+  "created_at": "2026-01-29",
+  "name": "08 TWEAKS",
+  "estimated_time": "Variable",
+  "requires_reboot": false,
+  "requires_admin": false,
+  "version": "2.0.0"
+}

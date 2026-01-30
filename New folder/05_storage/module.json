@@ -1,0 +1,17 @@
+{
+  "description": "05 DISK tools and utilities",
+  "author": "Knoux Platform Team",
+  "updated_at": "2026-01-29",
+  "icon": "💾",
+  "category": "storage",
+  "tags": [
+    "storage"
+  ],
+  "dependencies": [],
+  "created_at": "2026-01-29",
+  "name": "05 DISK",
+  "estimated_time": "Variable",
+  "requires_reboot": false,
+  "requires_admin": false,
+  "version": "2.0.0"
+}

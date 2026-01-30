@@ -1,0 +1,319 @@
+KNOX ULTIMATE TOOLBOX - LICENSE AGREEMENT
+============================================
+
+Version: 1.0.0
+Date: November 20, 2022
+Updated: January 15, 2024
+
+IMPORTANT: THIS LICENSE AGREEMENT ("AGREEMENT") IS A LEGAL AGREEMENT
+BETWEEN YOU (EITHER AN INDIVIDUAL OR A SINGLE ENTITY) AND THE DEVELOPERS
+OF KNOX ULTIMATE TOOLBOX ("DEVELOPER") FOR THE KNOX ULTIMATE TOOLBOX
+SOFTWARE PRODUCT ("SOFTWARE"). BY INSTALLING, COPYING, OR OTHERWISE USING
+THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
+
+---
+
+## 1. DEFINITIONS
+
+1.1 "Software" means the KNOX ULTIMATE TOOLBOX program and any associated
+    documentation, files, and materials provided by the Developer.
+
+1.2 "User" means any individual or entity that installs, copies, or uses
+    the Software.
+
+1.3 "Commercial Use" means use of the Software for business, commercial,
+    or revenue-generating purposes.
+
+1.4 "Personal Use" means use of the Software for personal, non-commercial
+    purposes.
+
+---
+
+## 2. LICENSE GRANT
+
+2.1 FREE USE LICENSE
+    The Developer grants you a non-exclusive, non-transferable, worldwide,
+    royalty-free license to use the Software for both Personal and Commercial
+    Use without any fees or charges.
+
+2.2 INSTALLATION AND COPYING
+    You may install and use the Software on an unlimited number of computers
+    that you own or control.
+
+2.3 DISTRIBUTION
+    You may freely distribute the Software to others, provided that:
+    a) You include all original files and documentation
+    b) You do not charge any fees for distribution
+    c) You do not modify the Software or its components
+    d) You include this license agreement
+
+2.4 NO RESTRICTIONS
+    There are no restrictions on the number of users, installations, or
+    commercial applications of the Software.
+
+---
+
+## 3. PERMITTED USES
+
+3.1 PERSONAL USE
+    You may use the Software for personal purposes including:
+    - System optimization and maintenance
+    - Security scanning and protection
+    - File management and backup
+    - System customization
+    - Educational and learning purposes
+
+3.2 COMMERCIAL USE
+    You may use the Software for commercial purposes including:
+    - Business system maintenance
+    - IT support and services
+    - System optimization for clients
+    - Security auditing and protection
+    - Any revenue-generating activities
+
+3.3 EDUCATIONAL USE
+    You may use the Software for educational purposes including:
+    - Teaching system administration
+    - Learning about system optimization
+    - Security education and training
+    - Technical training programs
+
+3.4 GOVERNMENT USE
+    You may use the Software for government purposes including:
+    - Government agency system maintenance
+    - Public sector IT support
+    - Government security auditing
+    - Public educational institutions
+
+---
+
+## 4. RESTRICTIONS
+
+4.1 NO MODIFICATION
+    You may not modify, decompile, reverse engineer, or create derivative
+    works of the Software.
+
+4.2 NO SUBLICENSE
+    You may not sublicense, rent, lease, or lend the Software to others
+    for commercial gain.
+
+4.3 NO REMOVAL OF COPYRIGHTS
+    You may not remove, alter, or obscure any copyright, trademark, or
+    other proprietary notices from the Software.
+
+4.4 NO FALSE REPRESENTATION
+    You may not represent that you are the creator or owner of the Software
+    or any portion thereof.
+
+4.5 NO ILLEGAL USE
+    You may not use the Software for any illegal purposes or in violation
+    of any applicable laws or regulations.
+
+---
+
+## 5. INTELLECTUAL PROPERTY RIGHTS
+
+5.1 DEVELOPER OWNERSHIP
+    The Developer retains all intellectual property rights in the Software,
+    including all copyrights, trademarks, and other proprietary rights.
+
+5.2 USER CONTENT
+    You retain all rights to any data, files, or content that you create
+    or process using the Software.
+
+5.3 NO PATENT GRANT
+    No patent rights are granted to you under this Agreement.
+
+---
+
+## 6. DISCLAIMER OF WARRANTY
+
+6.1 "AS IS" SOFTWARE
+    The Software is provided "AS IS" without warranty of any kind, either
+    express or implied, including, but not limited to, the implied warranties
+    of merchantability, fitness for a particular purpose, or non-infringement.
+
+6.2 NO TECHNICAL SUPPORT
+    The Developer is not obligated to provide technical support, updates,
+    or maintenance for the Software.
+
+6.3 NO GUARANTEE OF PERFORMANCE
+    The Developer does not guarantee that the Software will meet your
+    requirements or that the operation of the Software will be uninterrupted
+    or error-free.
+
+---
+
+## 7. LIMITATION OF LIABILITY
+
+7.1 MAXIMUM EXTENT PERMITTED BY LAW
+    In no event shall the Developer be liable for any damages whatsoever
+    (including, without limitation, damages for loss of business profits,
+    business interruption, loss of business information, or any other
+    pecuniary loss) arising out of the use or inability to use the Software.
+
+7.2 NO CONSEQUENTIAL DAMAGES
+    The Developer shall not be liable for any consequential, incidental,
+    indirect, special, or punitive damages whatsoever.
+
+7.3 CAP ON DAMAGES
+    In any case, the Developer's entire liability under any provision of
+    this Agreement shall be limited to the amount actually paid by you for
+    the Software, which is ZERO.
+
+---
+
+## 8. INDEMNIFICATION
+
+8.1 USER INDEMNIFICATION
+    You agree to indemnify and hold harmless the Developer from any and
+    all claims, damages, or liabilities arising out of your use of the
+    Software.
+
+8.2 DEFENSE COSTS
+    You agree to pay all costs and expenses incurred by the Developer in
+    defending against any claim arising from your use of the Software.
+
+---
+
+## 9. PRIVACY AND DATA PROTECTION
+
+9.1 NO DATA COLLECTION
+    The Software does not collect, store, or transmit any personal data
+    or usage information to external servers.
+
+9.2 LOCAL PROCESSING
+    All operations performed by the Software are processed locally on
+    your computer.
+
+9.3 NO THIRD-PARTY SHARING
+    The Developer does not share any user data with third parties.
+
+9.4 USER RESPONSIBILITY
+    You are responsible for backing up important data before using the
+    Software.
+
+---
+
+## 10. TERMINATION
+
+10.1 AUTOMATIC TERMINATION
+    This Agreement terminates automatically if you violate any of its terms
+    and conditions.
+
+10.2 EFFECT OF TERMINATION
+    Upon termination, you must cease all use of the Software and destroy
+    all copies in your possession.
+
+10.3 SURVIVAL OF CLAUSES
+    Sections 5, 6, 7, 8, and 9 shall survive termination of this Agreement.
+
+---
+
+## 11. GOVERNING LAW
+
+11.1 APPLICABLE LAW
+    This Agreement shall be governed by and construed in accordance with
+    the laws of the jurisdiction in which you reside.
+
+11.2 DISPUTE RESOLUTION
+    Any disputes arising from this Agreement shall be resolved through
+    binding arbitration in accordance with the rules of the applicable
+    arbitration association.
+
+---
+
+## 12. GENERAL PROVISIONS
+
+12.1 ENTIRE AGREEMENT
+    This Agreement constitutes the entire agreement between you and the
+    Developer concerning the Software.
+
+12.2 SEVERABILITY
+    If any provision of this Agreement is held to be unenforceable, the
+    remaining provisions shall continue in full force and effect.
+
+12.3 WAIVER
+    No waiver of any provision of this Agreement shall be effective unless
+    in writing and signed by both parties.
+
+12.4 ASSIGNMENT
+    You may not assign or transfer this Agreement without the prior written
+    consent of the Developer.
+
+12.5 NOTICES
+    All notices under this Agreement shall be in writing and delivered to
+    the appropriate party.
+
+---
+
+## 13. CONTACT INFORMATION
+
+13.1 DEVELOPER CONTACT
+    For questions about this license or the Software:
+    Email: support@knoxtoolbox.com
+    Website: https://knoxtoolbox.com
+
+13.2 UPDATES
+    Updates to this Agreement will be posted on the official website and
+    included with new versions of the Software.
+
+---
+
+## 14. ACKNOWLEDGMENT
+
+BY INSTALLING AND USING KNOX ULTIMATE TOOLBOX, YOU ACKNOWLEDGE THAT YOU HAVE
+READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS
+LICENSE AGREEMENT.
+
+IF YOU DO NOT AGREE TO THESE TERMS, DO NOT INSTALL OR USE THE SOFTWARE.
+
+---
+
+## LICENSE SUMMARY
+
+✅ FREE TO USE: No cost for personal or commercial use
+✅ UNLIMITED INSTALLATIONS: Install on as many computers as you want
+✅ COMMERCIAL USE ALLOWED: Use for business and revenue-generating activities
+✅ EDUCATIONAL USE: Perfect for learning and teaching
+✅ GOVERNMENT USE: Suitable for government agencies
+✅ NO HIDDEN FEES: Completely free with no charges
+✅ NO DATA COLLECTION: Privacy-focused with no data collection
+✅ NO TECHNICAL SUPPORT: Community-supported only
+✅ NO WARRANTY: Use at your own risk
+✅ NO LIABILITY: Developer not responsible for damages
+
+---
+
+## FREQUENTLY ASKED QUESTIONS
+
+Q: Can I use KNOX ULTIMATE TOOLBOX for my business?
+A: Yes, commercial use is completely free and allowed.
+
+Q: Can I install it on multiple computers?
+A: Yes, there are no restrictions on the number of installations.
+
+Q: Can I modify the software?
+A: No, modification is not permitted under this license.
+
+Q: Is there technical support available?
+A: No technical support is provided, but community support is available.
+
+Q: Does the software collect my data?
+A: No, the software processes everything locally and does not collect data.
+
+Q: Can I sell the software?
+A: No, you cannot sell the software or charge for its distribution.
+
+Q: What if I find a bug or issue?
+A: Report it through the community forums or issue tracker.
+
+Q: Can I use it in a school or university?
+A: Yes, educational use is encouraged and completely free.
+
+---
+
+*This license is provided as-is and may be updated by the Developer at any time.
+Users will be notified of any changes through official channels.*
+
+*Last updated: January 15, 2024*

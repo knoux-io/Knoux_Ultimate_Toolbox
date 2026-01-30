@@ -1,0 +1,47 @@
+{
+  "version": "1.0.0",
+  "sessions": [
+    {
+      "id": "knox_main_session",
+      "name": "KNOX Ultimate Toolbox - Main Session",
+      "created": "2026-01-30T03:00:00Z",
+      "lastModified": "2026-01-30T03:00:00Z",
+      "workspace": "F:\\KNOX_ULTIMATE_TOOLBOX",
+      "folders": [
+        "01_diagnostics",
+        "02_optimization", 
+        "03_security",
+        "04_network",
+        "05_disk",
+        "06_registry",
+        "07_services",
+        "08_tweaks",
+        "09_sysinfo",
+        "10_backup",
+        "11_advanced"
+      ],
+      "activeFiles": [],
+      "bookmarks": [
+        {
+          "name": "Main Menu",
+          "path": "KNOX_MAIN_MENU.bat",
+          "line": 1
+        }
+      ],
+      "environment": {
+        "theme": "knox-dark",
+        "fontSize": 14,
+        "fontFamily": "Consolas",
+        "tabSize": 4,
+        "wordWrap": true
+      }
+    }
+  ],
+  "preferences": {
+    "autoSave": true,
+    "autoSaveDelay": 1000,
+    "backupOnSave": true,
+    "maxSessions": 10,
+    "sessionTimeout": 3600
+  }
+}

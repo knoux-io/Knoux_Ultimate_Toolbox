@@ -1,0 +1,17 @@
+{
+  "description": "07 SERVICES tools and utilities",
+  "author": "Knoux Platform Team",
+  "updated_at": "2026-01-29",
+  "icon": "",
+  "category": "system",
+  "tags": [
+    "system"
+  ],
+  "dependencies": [],
+  "created_at": "2026-01-29",
+  "name": "07 SERVICES",
+  "estimated_time": "Variable",
+  "requires_reboot": false,
+  "requires_admin": true,
+  "version": "2.0.0"
+}

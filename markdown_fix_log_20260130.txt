@@ -1,0 +1,1319 @@
+[2026-01-30 05:19:54] [INFO] Starting KNOX Markdown Issues Fixer
+[2026-01-30 05:19:54] [INFO] Root path: F:\KNOX_ULTIMATE_TOOLBOX
+[2026-01-30 05:19:54] [INFO] Creating backup of all BAT files...
+[2026-01-30 05:19:54] [INFO] Backup completed: 94 files backed up to F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051953
+[2026-01-30 05:19:54] [INFO] Processing 188 BAT files...
+[2026-01-30 05:19:54] [ERROR] Error occurred: The -replace operator allows only two elements to follow it, not 3.
+[2026-01-30 05:19:54] [INFO] Script completed
+[2026-01-30 05:19:56] [INFO] Starting KNOX Markdown Issues Fixer
+[2026-01-30 05:19:56] [INFO] Root path: F:\KNOX_ULTIMATE_TOOLBOX
+[2026-01-30 05:19:56] [INFO] Creating backup of all BAT files...
+[2026-01-30 05:19:57] [INFO] Backup completed: 188 files backed up to F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956
+[2026-01-30 05:19:58] [INFO] Processing 376 BAT files...
+[2026-01-30 05:19:58] [ERROR] Error occurred: The -replace operator allows only two elements to follow it, not 3.
+[2026-01-30 05:19:58] [INFO] Script completed
+[2026-01-30 05:19:59] [INFO] Starting KNOX Markdown Issues Fixer
+[2026-01-30 05:19:59] [INFO] Root path: F:\KNOX_ULTIMATE_TOOLBOX
+[2026-01-30 05:19:59] [INFO] Creating backup of all BAT files...
+[2026-01-30 05:20:02] [INFO] Backup completed: 376 files backed up to F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959
+[2026-01-30 05:20:02] [INFO] Processing 752 BAT files...
+[2026-01-30 05:20:02] [ERROR] Error occurred: The -replace operator allows only two elements to follow it, not 3.
+[2026-01-30 05:20:02] [INFO] Script completed
+[2026-01-30 05:20:06] [INFO] Starting KNOX Markdown Issues Fixer
+[2026-01-30 05:20:06] [INFO] Root path: F:\KNOX_ULTIMATE_TOOLBOX
+[2026-01-30 05:20:06] [INFO] Creating backup of all BAT files...
+[2026-01-30 05:33:15] [INFO] Starting KNOX Markdown Issues Fixer
+[2026-01-30 05:33:15] [INFO] Root path: F:\KNOX_ULTIMATE_TOOLBOX
+[2026-01-30 05:33:15] [INFO] Creating backup of all BAT files...
+[2026-01-30 05:33:21] [INFO] Backup completed: 892 files backed up to F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314
+[2026-01-30 05:33:21] [INFO] Processing 1784 BAT files...
+[2026-01-30 05:33:21] [ERROR] Error occurred: The -replace operator allows only two elements to follow it, not 3.
+[2026-01-30 05:33:21] [INFO] Script completed
+[2026-01-30 05:34:35] [INFO] Starting KNOX Markdown Issues Fixer
+[2026-01-30 05:34:35] [INFO] Root path: F:\KNOX_ULTIMATE_TOOLBOX
+[2026-01-30 05:34:35] [INFO] Creating backup of all BAT files...
+[2026-01-30 05:34:44] [INFO] Backup completed: 1784 files backed up to F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434
+[2026-01-30 05:34:45] [INFO] Processing 3568 BAT files...
+[2026-01-30 05:34:45] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\fix_bat_markdown_issues.bat
+[2026-01-30 05:34:45] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:34:45] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\fix_markdown_issues.bat
+[2026-01-30 05:34:45] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\fix_markdown_issues.bat
+[2026-01-30 05:34:45] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:34:45] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\KNOX_PERSONAL_EDITION.BAT
+[2026-01-30 05:34:45] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\KNOX_PERSONAL_EDITION.BAT
+[2026-01-30 05:34:45] [INFO] Processed KNOX_PERSONAL_EDITION.BAT: 2 fixes applied
+[2026-01-30 05:34:45] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\translate_to_english.bat
+[2026-01-30 05:34:45] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:34:46] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\03_security\04_network_analyzer.BAT
+[2026-01-30 05:34:46] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:34:46] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:34:46] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:34:46] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\03_security\06_malware_detector.BAT
+[2026-01-30 05:34:46] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:34:46] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\07_services\dependencies_viewer.bat
+[2026-01-30 05:34:46] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:34:46] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\07_services\disable_services.bat
+[2026-01-30 05:34:46] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:34:46] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\07_services\performance_monitor.bat
+[2026-01-30 05:34:46] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:34:47] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\07_services\recovery_options.bat
+[2026-01-30 05:34:47] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:34:47] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\07_services\restore_defaults.bat
+[2026-01-30 05:34:47] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:34:47] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\07_services\service_accounts.bat
+[2026-01-30 05:34:47] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:34:47] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\07_services\startup_type_manager.bat
+[2026-01-30 05:34:47] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:34:47] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:34:47] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:34:47] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051953\fix_bat_markdown_issues.bat
+[2026-01-30 05:34:48] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:34:48] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:34:48] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:34:48] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:34:48] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051953\translate_to_english.bat
+[2026-01-30 05:34:48] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:34:49] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051953\03_security\04_network_analyzer.BAT
+[2026-01-30 05:34:49] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:34:49] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051953\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:34:50] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:34:50] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051953\03_security\06_malware_detector.BAT
+[2026-01-30 05:34:50] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:34:50] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051953\07_services\dependencies_viewer.bat
+[2026-01-30 05:34:50] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:34:50] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051953\07_services\disable_services.bat
+[2026-01-30 05:34:50] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:34:50] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051953\07_services\performance_monitor.bat
+[2026-01-30 05:34:50] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:34:51] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051953\07_services\recovery_options.bat
+[2026-01-30 05:34:51] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:34:51] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051953\07_services\restore_defaults.bat
+[2026-01-30 05:34:51] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:34:51] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051953\07_services\service_accounts.bat
+[2026-01-30 05:34:51] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:34:51] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051953\07_services\startup_type_manager.bat
+[2026-01-30 05:34:51] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:34:51] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051953\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:34:51] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:34:52] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:34:52] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:34:52] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:34:52] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\fix_bat_markdown_issues.bat
+[2026-01-30 05:34:52] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:34:52] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\fix_markdown_issues.bat
+[2026-01-30 05:34:52] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\fix_markdown_issues.bat
+[2026-01-30 05:34:52] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:34:52] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\translate_to_english.bat
+[2026-01-30 05:34:52] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:34:53] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\03_security\04_network_analyzer.BAT
+[2026-01-30 05:34:53] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:34:53] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:34:53] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:34:53] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\03_security\06_malware_detector.BAT
+[2026-01-30 05:34:53] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:34:53] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\07_services\dependencies_viewer.bat
+[2026-01-30 05:34:53] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:34:53] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\07_services\disable_services.bat
+[2026-01-30 05:34:53] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:34:53] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\07_services\performance_monitor.bat
+[2026-01-30 05:34:53] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:34:53] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\07_services\recovery_options.bat
+[2026-01-30 05:34:53] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:34:53] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\07_services\restore_defaults.bat
+[2026-01-30 05:34:53] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:34:53] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\07_services\service_accounts.bat
+[2026-01-30 05:34:53] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:34:53] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\07_services\startup_type_manager.bat
+[2026-01-30 05:34:53] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:34:53] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:34:53] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:34:54] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\backup_20260130_051953\fix_bat_markdown_issues.bat
+[2026-01-30 05:34:54] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:34:54] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:34:54] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:34:54] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:34:54] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\backup_20260130_051953\translate_to_english.bat
+[2026-01-30 05:34:54] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:34:55] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\backup_20260130_051953\03_security\04_network_analyzer.BAT
+[2026-01-30 05:34:55] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:34:55] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\backup_20260130_051953\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:34:55] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:34:55] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\backup_20260130_051953\03_security\06_malware_detector.BAT
+[2026-01-30 05:34:55] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:34:55] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\backup_20260130_051953\07_services\dependencies_viewer.bat
+[2026-01-30 05:34:55] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:34:55] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\backup_20260130_051953\07_services\disable_services.bat
+[2026-01-30 05:34:55] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:34:55] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\backup_20260130_051953\07_services\performance_monitor.bat
+[2026-01-30 05:34:55] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:34:55] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\backup_20260130_051953\07_services\recovery_options.bat
+[2026-01-30 05:34:55] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:34:55] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\backup_20260130_051953\07_services\restore_defaults.bat
+[2026-01-30 05:34:55] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:34:55] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\backup_20260130_051953\07_services\service_accounts.bat
+[2026-01-30 05:34:55] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:34:56] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\backup_20260130_051953\07_services\startup_type_manager.bat
+[2026-01-30 05:34:56] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:34:56] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\backup_20260130_051953\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:34:56] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:34:57] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:34:57] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:34:57] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:34:57] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:34:57] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051956\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:34:57] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:34:57] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\fix_bat_markdown_issues.bat
+[2026-01-30 05:34:57] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:34:57] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\fix_markdown_issues.bat
+[2026-01-30 05:34:57] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\fix_markdown_issues.bat
+[2026-01-30 05:34:57] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:34:58] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\translate_to_english.bat
+[2026-01-30 05:34:58] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:34:58] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\03_security\04_network_analyzer.BAT
+[2026-01-30 05:34:58] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:34:58] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:34:58] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:34:58] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\03_security\06_malware_detector.BAT
+[2026-01-30 05:34:58] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:34:58] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\07_services\dependencies_viewer.bat
+[2026-01-30 05:34:58] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:34:58] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\07_services\disable_services.bat
+[2026-01-30 05:34:58] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:34:58] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\07_services\performance_monitor.bat
+[2026-01-30 05:34:58] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:34:58] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\07_services\recovery_options.bat
+[2026-01-30 05:34:58] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:34:59] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\07_services\restore_defaults.bat
+[2026-01-30 05:34:59] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:34:59] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\07_services\service_accounts.bat
+[2026-01-30 05:34:59] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:34:59] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\07_services\startup_type_manager.bat
+[2026-01-30 05:34:59] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:34:59] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:34:59] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:34:59] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051953\fix_bat_markdown_issues.bat
+[2026-01-30 05:34:59] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:34:59] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:34:59] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:34:59] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:34:59] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051953\translate_to_english.bat
+[2026-01-30 05:34:59] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:00] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051953\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:00] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:00] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051953\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:00] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:00] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051953\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:00] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:00] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051953\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:00] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:00] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051953\07_services\disable_services.bat
+[2026-01-30 05:35:00] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:00] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051953\07_services\performance_monitor.bat
+[2026-01-30 05:35:00] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:00] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051953\07_services\recovery_options.bat
+[2026-01-30 05:35:00] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:00] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051953\07_services\restore_defaults.bat
+[2026-01-30 05:35:00] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:00] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051953\07_services\service_accounts.bat
+[2026-01-30 05:35:00] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:00] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051953\07_services\startup_type_manager.bat
+[2026-01-30 05:35:00] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:00] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051953\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:00] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:01] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:01] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:01] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:35:01] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:01] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:01] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\fix_markdown_issues.bat
+[2026-01-30 05:35:01] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\fix_markdown_issues.bat
+[2026-01-30 05:35:01] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:01] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\translate_to_english.bat
+[2026-01-30 05:35:01] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:02] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:02] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:02] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:02] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:02] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:02] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:02] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:02] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:02] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\07_services\disable_services.bat
+[2026-01-30 05:35:02] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:02] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\07_services\performance_monitor.bat
+[2026-01-30 05:35:02] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:02] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\07_services\recovery_options.bat
+[2026-01-30 05:35:02] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:02] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\07_services\restore_defaults.bat
+[2026-01-30 05:35:02] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:02] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\07_services\service_accounts.bat
+[2026-01-30 05:35:02] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:02] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\07_services\startup_type_manager.bat
+[2026-01-30 05:35:02] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:02] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:02] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:03] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:03] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:03] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:03] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:03] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:03] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\translate_to_english.bat
+[2026-01-30 05:35:03] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:04] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:04] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:04] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:04] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:04] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:04] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:04] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:04] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:04] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\disable_services.bat
+[2026-01-30 05:35:04] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:04] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\performance_monitor.bat
+[2026-01-30 05:35:04] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:04] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\recovery_options.bat
+[2026-01-30 05:35:04] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:04] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\restore_defaults.bat
+[2026-01-30 05:35:04] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:04] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\service_accounts.bat
+[2026-01-30 05:35:04] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:04] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\startup_type_manager.bat
+[2026-01-30 05:35:04] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:04] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:04] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:06] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:06] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:06] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:35:06] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:06] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\backup_20260130_051956\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:06] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:35:07] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:07] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_051959\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:07] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:35:07] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:07] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:07] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\fix_markdown_issues.bat
+[2026-01-30 05:35:07] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\fix_markdown_issues.bat
+[2026-01-30 05:35:07] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:07] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\translate_to_english.bat
+[2026-01-30 05:35:07] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:08] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:08] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:08] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:08] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:08] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:08] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:08] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:08] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:08] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\07_services\disable_services.bat
+[2026-01-30 05:35:08] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:08] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\07_services\performance_monitor.bat
+[2026-01-30 05:35:08] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:08] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\07_services\recovery_options.bat
+[2026-01-30 05:35:08] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:08] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\07_services\restore_defaults.bat
+[2026-01-30 05:35:08] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:08] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\07_services\service_accounts.bat
+[2026-01-30 05:35:08] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:09] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\07_services\startup_type_manager.bat
+[2026-01-30 05:35:09] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:09] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:09] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:09] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\backup_20260130_051953\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:09] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:09] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:09] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:09] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:09] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\backup_20260130_051953\translate_to_english.bat
+[2026-01-30 05:35:09] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:10] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\backup_20260130_051953\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:10] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:10] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\backup_20260130_051953\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:10] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:10] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\backup_20260130_051953\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:10] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:10] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\backup_20260130_051953\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:10] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:10] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\backup_20260130_051953\07_services\disable_services.bat
+[2026-01-30 05:35:10] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:10] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\backup_20260130_051953\07_services\performance_monitor.bat
+[2026-01-30 05:35:10] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:10] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\backup_20260130_051953\07_services\recovery_options.bat
+[2026-01-30 05:35:10] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:10] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\backup_20260130_051953\07_services\restore_defaults.bat
+[2026-01-30 05:35:10] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:10] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\backup_20260130_051953\07_services\service_accounts.bat
+[2026-01-30 05:35:10] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:10] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\backup_20260130_051953\07_services\startup_type_manager.bat
+[2026-01-30 05:35:10] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:11] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_052006\backup_20260130_051953\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:11] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:11] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:11] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:11] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\fix_markdown_issues.bat
+[2026-01-30 05:35:11] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\fix_markdown_issues.bat
+[2026-01-30 05:35:11] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:11] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\KNOX_PERSONAL_EDITION.BAT
+[2026-01-30 05:35:11] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\KNOX_PERSONAL_EDITION.BAT
+[2026-01-30 05:35:11] [INFO] Processed KNOX_PERSONAL_EDITION.BAT: 2 fixes applied
+[2026-01-30 05:35:11] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\translate_to_english.bat
+[2026-01-30 05:35:11] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:12] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:12] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:12] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:12] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:12] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:12] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:12] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:12] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:12] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\07_services\disable_services.bat
+[2026-01-30 05:35:12] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:12] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\07_services\performance_monitor.bat
+[2026-01-30 05:35:12] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:12] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\07_services\recovery_options.bat
+[2026-01-30 05:35:12] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:12] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\07_services\restore_defaults.bat
+[2026-01-30 05:35:12] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:12] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\07_services\service_accounts.bat
+[2026-01-30 05:35:12] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:12] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\07_services\startup_type_manager.bat
+[2026-01-30 05:35:12] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:12] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:12] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:13] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051953\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:13] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:13] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:13] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:13] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:13] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051953\translate_to_english.bat
+[2026-01-30 05:35:13] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:14] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051953\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:14] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:14] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051953\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:14] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:14] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051953\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:14] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:14] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051953\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:14] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:14] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051953\07_services\disable_services.bat
+[2026-01-30 05:35:14] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:14] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051953\07_services\performance_monitor.bat
+[2026-01-30 05:35:14] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:14] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051953\07_services\recovery_options.bat
+[2026-01-30 05:35:14] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:14] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051953\07_services\restore_defaults.bat
+[2026-01-30 05:35:14] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:14] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051953\07_services\service_accounts.bat
+[2026-01-30 05:35:14] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:14] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051953\07_services\startup_type_manager.bat
+[2026-01-30 05:35:14] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:14] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051953\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:14] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:15] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:15] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:15] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:35:15] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:15] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:15] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\fix_markdown_issues.bat
+[2026-01-30 05:35:15] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\fix_markdown_issues.bat
+[2026-01-30 05:35:15] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:16] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\translate_to_english.bat
+[2026-01-30 05:35:16] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:17] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:17] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:17] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:17] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:17] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:17] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:17] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:17] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:17] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\07_services\disable_services.bat
+[2026-01-30 05:35:17] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:17] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\07_services\performance_monitor.bat
+[2026-01-30 05:35:17] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:17] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\07_services\recovery_options.bat
+[2026-01-30 05:35:17] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:17] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\07_services\restore_defaults.bat
+[2026-01-30 05:35:17] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:17] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\07_services\service_accounts.bat
+[2026-01-30 05:35:17] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:17] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\07_services\startup_type_manager.bat
+[2026-01-30 05:35:17] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:17] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:17] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:17] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:17] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:18] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:18] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:18] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:18] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\translate_to_english.bat
+[2026-01-30 05:35:18] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:19] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:19] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:19] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:19] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:19] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:19] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:19] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:19] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:19] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\07_services\disable_services.bat
+[2026-01-30 05:35:19] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:19] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\07_services\performance_monitor.bat
+[2026-01-30 05:35:19] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:19] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\07_services\recovery_options.bat
+[2026-01-30 05:35:19] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:19] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\07_services\restore_defaults.bat
+[2026-01-30 05:35:19] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:19] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\07_services\service_accounts.bat
+[2026-01-30 05:35:19] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:19] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\07_services\startup_type_manager.bat
+[2026-01-30 05:35:19] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:19] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:19] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:20] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:20] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:20] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:35:21] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:21] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051956\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:21] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:35:21] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:21] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:21] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\fix_markdown_issues.bat
+[2026-01-30 05:35:21] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\fix_markdown_issues.bat
+[2026-01-30 05:35:21] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:21] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\translate_to_english.bat
+[2026-01-30 05:35:21] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:22] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:22] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:22] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:22] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:22] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:22] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:22] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:22] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:22] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\07_services\disable_services.bat
+[2026-01-30 05:35:22] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:22] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\07_services\performance_monitor.bat
+[2026-01-30 05:35:22] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:22] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\07_services\recovery_options.bat
+[2026-01-30 05:35:22] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:22] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\07_services\restore_defaults.bat
+[2026-01-30 05:35:22] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:22] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\07_services\service_accounts.bat
+[2026-01-30 05:35:22] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:22] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\07_services\startup_type_manager.bat
+[2026-01-30 05:35:22] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:22] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:22] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:23] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:23] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:23] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:23] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:23] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:23] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\translate_to_english.bat
+[2026-01-30 05:35:23] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:24] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:24] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:24] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:24] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:24] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:24] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:24] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:24] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:24] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\07_services\disable_services.bat
+[2026-01-30 05:35:24] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:24] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\07_services\performance_monitor.bat
+[2026-01-30 05:35:24] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:24] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\07_services\recovery_options.bat
+[2026-01-30 05:35:24] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:24] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\07_services\restore_defaults.bat
+[2026-01-30 05:35:24] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:24] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\07_services\service_accounts.bat
+[2026-01-30 05:35:24] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:24] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\07_services\startup_type_manager.bat
+[2026-01-30 05:35:24] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:24] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:24] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:25] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:25] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:25] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:35:25] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:25] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:26] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\fix_markdown_issues.bat
+[2026-01-30 05:35:26] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\fix_markdown_issues.bat
+[2026-01-30 05:35:26] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:26] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\translate_to_english.bat
+[2026-01-30 05:35:26] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:26] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:26] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:26] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:26] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:26] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:26] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:27] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:27] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:27] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\07_services\disable_services.bat
+[2026-01-30 05:35:27] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:27] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\07_services\performance_monitor.bat
+[2026-01-30 05:35:27] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:27] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\07_services\recovery_options.bat
+[2026-01-30 05:35:27] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:27] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\07_services\restore_defaults.bat
+[2026-01-30 05:35:27] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:27] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\07_services\service_accounts.bat
+[2026-01-30 05:35:27] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:27] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\07_services\startup_type_manager.bat
+[2026-01-30 05:35:27] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:27] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:27] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:27] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:27] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:27] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:27] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:27] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:28] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\translate_to_english.bat
+[2026-01-30 05:35:28] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:28] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:28] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:28] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:28] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:29] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:29] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:29] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:29] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:29] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\disable_services.bat
+[2026-01-30 05:35:29] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:29] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\performance_monitor.bat
+[2026-01-30 05:35:29] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:29] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\recovery_options.bat
+[2026-01-30 05:35:29] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:29] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\restore_defaults.bat
+[2026-01-30 05:35:29] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:29] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\service_accounts.bat
+[2026-01-30 05:35:29] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:29] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\startup_type_manager.bat
+[2026-01-30 05:35:29] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:29] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:29] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:30] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:30] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:30] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:35:31] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:31] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:31] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:35:31] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:31] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_051959\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:31] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:35:32] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:32] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:32] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\fix_markdown_issues.bat
+[2026-01-30 05:35:32] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\fix_markdown_issues.bat
+[2026-01-30 05:35:32] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:32] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\translate_to_english.bat
+[2026-01-30 05:35:32] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:32] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:32] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:32] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:32] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:33] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:33] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:33] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:33] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:33] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\07_services\disable_services.bat
+[2026-01-30 05:35:33] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:33] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\07_services\performance_monitor.bat
+[2026-01-30 05:35:33] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:33] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\07_services\recovery_options.bat
+[2026-01-30 05:35:33] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:33] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\07_services\restore_defaults.bat
+[2026-01-30 05:35:33] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:33] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\07_services\service_accounts.bat
+[2026-01-30 05:35:33] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:33] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\07_services\startup_type_manager.bat
+[2026-01-30 05:35:33] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:33] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:33] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:33] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:33] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:33] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:33] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:33] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:34] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\translate_to_english.bat
+[2026-01-30 05:35:34] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:34] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:34] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:34] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:34] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:34] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:34] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:35] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:35] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:35] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\07_services\disable_services.bat
+[2026-01-30 05:35:35] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:35] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\07_services\performance_monitor.bat
+[2026-01-30 05:35:35] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:35] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\07_services\recovery_options.bat
+[2026-01-30 05:35:35] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:35] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\07_services\restore_defaults.bat
+[2026-01-30 05:35:35] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:35] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\07_services\service_accounts.bat
+[2026-01-30 05:35:35] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:35] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\07_services\startup_type_manager.bat
+[2026-01-30 05:35:35] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:35] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:35] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:36] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:36] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053314\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:36] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:35:36] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:36] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:36] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\fix_markdown_issues.bat
+[2026-01-30 05:35:36] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\fix_markdown_issues.bat
+[2026-01-30 05:35:36] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:36] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\KNOX_PERSONAL_EDITION.BAT
+[2026-01-30 05:35:36] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\KNOX_PERSONAL_EDITION.BAT
+[2026-01-30 05:35:36] [INFO] Processed KNOX_PERSONAL_EDITION.BAT: 2 fixes applied
+[2026-01-30 05:35:36] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\translate_to_english.bat
+[2026-01-30 05:35:36] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:37] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:37] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:37] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:37] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:37] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:37] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:37] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:37] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:37] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\07_services\disable_services.bat
+[2026-01-30 05:35:37] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:37] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\07_services\performance_monitor.bat
+[2026-01-30 05:35:37] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:37] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\07_services\recovery_options.bat
+[2026-01-30 05:35:37] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:37] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\07_services\restore_defaults.bat
+[2026-01-30 05:35:37] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:37] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\07_services\service_accounts.bat
+[2026-01-30 05:35:37] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:37] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\07_services\startup_type_manager.bat
+[2026-01-30 05:35:37] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:37] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:37] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:38] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051953\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:38] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:38] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:38] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:38] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:38] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051953\translate_to_english.bat
+[2026-01-30 05:35:38] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:39] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051953\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:39] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:39] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051953\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:39] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:39] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051953\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:39] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:39] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051953\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:39] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:39] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051953\07_services\disable_services.bat
+[2026-01-30 05:35:39] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:39] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051953\07_services\performance_monitor.bat
+[2026-01-30 05:35:39] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:39] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051953\07_services\recovery_options.bat
+[2026-01-30 05:35:39] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:39] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051953\07_services\restore_defaults.bat
+[2026-01-30 05:35:39] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:39] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051953\07_services\service_accounts.bat
+[2026-01-30 05:35:39] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:39] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051953\07_services\startup_type_manager.bat
+[2026-01-30 05:35:39] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:39] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051953\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:39] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:41] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:41] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:41] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:35:41] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:41] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:41] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\fix_markdown_issues.bat
+[2026-01-30 05:35:41] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\fix_markdown_issues.bat
+[2026-01-30 05:35:41] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:41] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\translate_to_english.bat
+[2026-01-30 05:35:41] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:42] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:42] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:42] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:42] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:42] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:42] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:42] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:42] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:42] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\07_services\disable_services.bat
+[2026-01-30 05:35:42] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:42] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\07_services\performance_monitor.bat
+[2026-01-30 05:35:42] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:42] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\07_services\recovery_options.bat
+[2026-01-30 05:35:42] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:42] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\07_services\restore_defaults.bat
+[2026-01-30 05:35:42] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:42] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\07_services\service_accounts.bat
+[2026-01-30 05:35:42] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:42] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\07_services\startup_type_manager.bat
+[2026-01-30 05:35:42] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:42] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:42] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:43] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\backup_20260130_051953\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:43] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:43] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:43] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:43] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:43] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\backup_20260130_051953\translate_to_english.bat
+[2026-01-30 05:35:43] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:43] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\backup_20260130_051953\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:43] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:43] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\backup_20260130_051953\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:43] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:44] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\backup_20260130_051953\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:44] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:44] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\backup_20260130_051953\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:44] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:44] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\backup_20260130_051953\07_services\disable_services.bat
+[2026-01-30 05:35:44] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:44] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\backup_20260130_051953\07_services\performance_monitor.bat
+[2026-01-30 05:35:44] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:44] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\backup_20260130_051953\07_services\recovery_options.bat
+[2026-01-30 05:35:44] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:44] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\backup_20260130_051953\07_services\restore_defaults.bat
+[2026-01-30 05:35:44] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:44] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\backup_20260130_051953\07_services\service_accounts.bat
+[2026-01-30 05:35:44] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:44] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\backup_20260130_051953\07_services\startup_type_manager.bat
+[2026-01-30 05:35:44] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:44] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\backup_20260130_051953\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:44] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:45] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:45] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:45] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:35:46] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:46] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051956\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:46] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:35:46] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:46] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:46] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\fix_markdown_issues.bat
+[2026-01-30 05:35:46] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\fix_markdown_issues.bat
+[2026-01-30 05:35:46] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:46] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\translate_to_english.bat
+[2026-01-30 05:35:46] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:47] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:47] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:47] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:47] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:47] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:47] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:47] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:47] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:47] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\07_services\disable_services.bat
+[2026-01-30 05:35:47] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:47] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\07_services\performance_monitor.bat
+[2026-01-30 05:35:47] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:47] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\07_services\recovery_options.bat
+[2026-01-30 05:35:47] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:47] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\07_services\restore_defaults.bat
+[2026-01-30 05:35:47] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:47] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\07_services\service_accounts.bat
+[2026-01-30 05:35:47] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:47] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\07_services\startup_type_manager.bat
+[2026-01-30 05:35:47] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:47] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:47] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:48] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051953\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:48] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:48] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:48] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:48] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:48] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051953\translate_to_english.bat
+[2026-01-30 05:35:48] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:49] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051953\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:49] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:49] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051953\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:49] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:49] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051953\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:49] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:49] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051953\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:49] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:49] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051953\07_services\disable_services.bat
+[2026-01-30 05:35:49] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:49] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051953\07_services\performance_monitor.bat
+[2026-01-30 05:35:49] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:49] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051953\07_services\recovery_options.bat
+[2026-01-30 05:35:49] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:49] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051953\07_services\restore_defaults.bat
+[2026-01-30 05:35:49] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:49] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051953\07_services\service_accounts.bat
+[2026-01-30 05:35:49] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:49] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051953\07_services\startup_type_manager.bat
+[2026-01-30 05:35:49] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:49] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051953\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:49] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:50] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:50] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:50] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:35:51] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:51] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:51] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\fix_markdown_issues.bat
+[2026-01-30 05:35:51] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\fix_markdown_issues.bat
+[2026-01-30 05:35:51] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:51] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\translate_to_english.bat
+[2026-01-30 05:35:51] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:52] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:52] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:52] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:52] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:52] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:52] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:52] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:52] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:52] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\07_services\disable_services.bat
+[2026-01-30 05:35:52] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:52] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\07_services\performance_monitor.bat
+[2026-01-30 05:35:52] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:52] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\07_services\recovery_options.bat
+[2026-01-30 05:35:52] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:52] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\07_services\restore_defaults.bat
+[2026-01-30 05:35:52] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:52] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\07_services\service_accounts.bat
+[2026-01-30 05:35:52] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:52] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\07_services\startup_type_manager.bat
+[2026-01-30 05:35:52] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:52] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:52] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:53] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:53] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:53] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:53] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:53] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:53] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\translate_to_english.bat
+[2026-01-30 05:35:53] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:54] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:54] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:54] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:54] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:54] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:54] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:54] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:54] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:54] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\disable_services.bat
+[2026-01-30 05:35:54] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:54] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\performance_monitor.bat
+[2026-01-30 05:35:54] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:54] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\recovery_options.bat
+[2026-01-30 05:35:54] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:54] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\restore_defaults.bat
+[2026-01-30 05:35:54] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:54] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\service_accounts.bat
+[2026-01-30 05:35:54] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:54] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\startup_type_manager.bat
+[2026-01-30 05:35:54] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:54] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:54] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:55] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:55] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:55] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:35:56] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:56] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\backup_20260130_051956\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:56] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:35:57] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:57] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_051959\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:35:57] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:35:57] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:57] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:57] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\fix_markdown_issues.bat
+[2026-01-30 05:35:57] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\fix_markdown_issues.bat
+[2026-01-30 05:35:57] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:57] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\translate_to_english.bat
+[2026-01-30 05:35:57] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:35:58] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\03_security\04_network_analyzer.BAT
+[2026-01-30 05:35:58] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:35:58] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:35:58] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:35:58] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\03_security\06_malware_detector.BAT
+[2026-01-30 05:35:58] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:35:58] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\07_services\dependencies_viewer.bat
+[2026-01-30 05:35:58] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:35:58] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\07_services\disable_services.bat
+[2026-01-30 05:35:58] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:35:58] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\07_services\performance_monitor.bat
+[2026-01-30 05:35:58] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:35:58] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\07_services\recovery_options.bat
+[2026-01-30 05:35:58] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:35:58] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\07_services\restore_defaults.bat
+[2026-01-30 05:35:58] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:35:58] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\07_services\service_accounts.bat
+[2026-01-30 05:35:58] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:35:58] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\07_services\startup_type_manager.bat
+[2026-01-30 05:35:58] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:35:58] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:35:58] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:35:59] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\backup_20260130_051953\fix_bat_markdown_issues.bat
+[2026-01-30 05:35:59] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:35:59] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:59] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:35:59] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:35:59] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\backup_20260130_051953\translate_to_english.bat
+[2026-01-30 05:35:59] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:36:00] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\backup_20260130_051953\03_security\04_network_analyzer.BAT
+[2026-01-30 05:36:00] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:36:00] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\backup_20260130_051953\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:36:00] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:36:00] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\backup_20260130_051953\03_security\06_malware_detector.BAT
+[2026-01-30 05:36:00] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:36:00] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\backup_20260130_051953\07_services\dependencies_viewer.bat
+[2026-01-30 05:36:00] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:36:00] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\backup_20260130_051953\07_services\disable_services.bat
+[2026-01-30 05:36:00] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:36:00] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\backup_20260130_051953\07_services\performance_monitor.bat
+[2026-01-30 05:36:00] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:36:00] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\backup_20260130_051953\07_services\recovery_options.bat
+[2026-01-30 05:36:00] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:36:00] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\backup_20260130_051953\07_services\restore_defaults.bat
+[2026-01-30 05:36:00] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:36:00] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\backup_20260130_051953\07_services\service_accounts.bat
+[2026-01-30 05:36:00] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:36:00] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\backup_20260130_051953\07_services\startup_type_manager.bat
+[2026-01-30 05:36:00] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:36:00] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_052006\backup_20260130_051953\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:36:00] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:36:00] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\fix_bat_markdown_issues.bat
+[2026-01-30 05:36:00] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:36:00] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\fix_markdown_issues.bat
+[2026-01-30 05:36:00] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\fix_markdown_issues.bat
+[2026-01-30 05:36:00] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:36:01] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\KNOX_PERSONAL_EDITION.BAT
+[2026-01-30 05:36:01] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\KNOX_PERSONAL_EDITION.BAT
+[2026-01-30 05:36:01] [INFO] Processed KNOX_PERSONAL_EDITION.BAT: 2 fixes applied
+[2026-01-30 05:36:01] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\translate_to_english.bat
+[2026-01-30 05:36:01] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:36:01] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\03_security\04_network_analyzer.BAT
+[2026-01-30 05:36:01] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:36:02] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:36:02] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:36:02] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\03_security\06_malware_detector.BAT
+[2026-01-30 05:36:02] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:36:02] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\07_services\dependencies_viewer.bat
+[2026-01-30 05:36:02] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:36:02] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\07_services\disable_services.bat
+[2026-01-30 05:36:02] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:36:02] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\07_services\performance_monitor.bat
+[2026-01-30 05:36:02] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:36:02] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\07_services\recovery_options.bat
+[2026-01-30 05:36:02] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:36:02] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\07_services\restore_defaults.bat
+[2026-01-30 05:36:02] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:36:02] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\07_services\service_accounts.bat
+[2026-01-30 05:36:02] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:36:02] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\07_services\startup_type_manager.bat
+[2026-01-30 05:36:02] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:36:02] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:36:02] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:36:03] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051953\fix_bat_markdown_issues.bat
+[2026-01-30 05:36:03] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:36:03] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:36:03] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:36:03] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:36:03] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051953\translate_to_english.bat
+[2026-01-30 05:36:03] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:36:04] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051953\03_security\04_network_analyzer.BAT
+[2026-01-30 05:36:04] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:36:04] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051953\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:36:04] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:36:04] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051953\03_security\06_malware_detector.BAT
+[2026-01-30 05:36:04] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:36:04] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051953\07_services\dependencies_viewer.bat
+[2026-01-30 05:36:04] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:36:04] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051953\07_services\disable_services.bat
+[2026-01-30 05:36:04] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:36:04] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051953\07_services\performance_monitor.bat
+[2026-01-30 05:36:04] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:36:04] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051953\07_services\recovery_options.bat
+[2026-01-30 05:36:04] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:36:04] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051953\07_services\restore_defaults.bat
+[2026-01-30 05:36:04] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:36:04] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051953\07_services\service_accounts.bat
+[2026-01-30 05:36:04] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:36:04] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051953\07_services\startup_type_manager.bat
+[2026-01-30 05:36:04] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:36:04] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051953\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:36:04] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:36:05] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:36:05] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:36:05] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:36:06] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\fix_bat_markdown_issues.bat
+[2026-01-30 05:36:06] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:36:06] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\fix_markdown_issues.bat
+[2026-01-30 05:36:06] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\fix_markdown_issues.bat
+[2026-01-30 05:36:06] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:36:06] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\translate_to_english.bat
+[2026-01-30 05:36:06] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:36:07] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\03_security\04_network_analyzer.BAT
+[2026-01-30 05:36:07] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:36:07] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:36:07] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:36:07] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\03_security\06_malware_detector.BAT
+[2026-01-30 05:36:07] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:36:07] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\07_services\dependencies_viewer.bat
+[2026-01-30 05:36:07] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:36:07] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\07_services\disable_services.bat
+[2026-01-30 05:36:07] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:36:07] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\07_services\performance_monitor.bat
+[2026-01-30 05:36:07] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:36:07] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\07_services\recovery_options.bat
+[2026-01-30 05:36:07] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:36:07] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\07_services\restore_defaults.bat
+[2026-01-30 05:36:07] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:36:07] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\07_services\service_accounts.bat
+[2026-01-30 05:36:07] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:36:07] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\07_services\startup_type_manager.bat
+[2026-01-30 05:36:07] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:36:07] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:36:07] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:36:07] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\fix_bat_markdown_issues.bat
+[2026-01-30 05:36:07] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:36:07] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:36:08] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:36:08] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:36:08] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\translate_to_english.bat
+[2026-01-30 05:36:08] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:36:08] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\03_security\04_network_analyzer.BAT
+[2026-01-30 05:36:08] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:36:08] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:36:08] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:36:08] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\03_security\06_malware_detector.BAT
+[2026-01-30 05:36:08] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:36:09] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\07_services\dependencies_viewer.bat
+[2026-01-30 05:36:09] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:36:09] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\07_services\disable_services.bat
+[2026-01-30 05:36:09] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:36:09] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\07_services\performance_monitor.bat
+[2026-01-30 05:36:09] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:36:09] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\07_services\recovery_options.bat
+[2026-01-30 05:36:09] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:36:09] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\07_services\restore_defaults.bat
+[2026-01-30 05:36:09] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:36:09] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\07_services\service_accounts.bat
+[2026-01-30 05:36:09] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:36:09] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\07_services\startup_type_manager.bat
+[2026-01-30 05:36:09] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:36:09] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:36:09] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:36:10] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:36:10] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:36:10] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:36:11] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:36:11] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051956\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:36:11] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:36:11] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\fix_bat_markdown_issues.bat
+[2026-01-30 05:36:11] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:36:11] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\fix_markdown_issues.bat
+[2026-01-30 05:36:11] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\fix_markdown_issues.bat
+[2026-01-30 05:36:11] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:36:11] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\translate_to_english.bat
+[2026-01-30 05:36:11] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:36:12] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\03_security\04_network_analyzer.BAT
+[2026-01-30 05:36:12] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:36:12] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:36:12] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:36:12] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\03_security\06_malware_detector.BAT
+[2026-01-30 05:36:12] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:36:12] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\07_services\dependencies_viewer.bat
+[2026-01-30 05:36:12] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:36:12] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\07_services\disable_services.bat
+[2026-01-30 05:36:12] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:36:12] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\07_services\performance_monitor.bat
+[2026-01-30 05:36:12] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:36:12] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\07_services\recovery_options.bat
+[2026-01-30 05:36:12] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:36:12] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\07_services\restore_defaults.bat
+[2026-01-30 05:36:12] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:36:12] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\07_services\service_accounts.bat
+[2026-01-30 05:36:12] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:36:12] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\07_services\startup_type_manager.bat
+[2026-01-30 05:36:12] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:36:13] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:36:13] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:36:13] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\fix_bat_markdown_issues.bat
+[2026-01-30 05:36:13] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:36:13] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:36:13] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:36:13] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:36:13] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\translate_to_english.bat
+[2026-01-30 05:36:13] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:36:14] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\03_security\04_network_analyzer.BAT
+[2026-01-30 05:36:14] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:36:14] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:36:14] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:36:14] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\03_security\06_malware_detector.BAT
+[2026-01-30 05:36:14] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:36:14] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\07_services\dependencies_viewer.bat
+[2026-01-30 05:36:14] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:36:14] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\07_services\disable_services.bat
+[2026-01-30 05:36:14] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:36:14] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\07_services\performance_monitor.bat
+[2026-01-30 05:36:14] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:36:14] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\07_services\recovery_options.bat
+[2026-01-30 05:36:14] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:36:14] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\07_services\restore_defaults.bat
+[2026-01-30 05:36:14] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:36:14] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\07_services\service_accounts.bat
+[2026-01-30 05:36:14] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:36:14] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\07_services\startup_type_manager.bat
+[2026-01-30 05:36:14] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:36:15] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:36:15] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:36:15] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:36:15] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:36:15] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:36:15] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\fix_bat_markdown_issues.bat
+[2026-01-30 05:36:15] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:36:15] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\fix_markdown_issues.bat
+[2026-01-30 05:36:15] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\fix_markdown_issues.bat
+[2026-01-30 05:36:15] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:36:16] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\translate_to_english.bat
+[2026-01-30 05:36:16] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:36:16] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\03_security\04_network_analyzer.BAT
+[2026-01-30 05:36:16] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:36:16] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:36:16] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:36:16] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\03_security\06_malware_detector.BAT
+[2026-01-30 05:36:16] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:36:16] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\07_services\dependencies_viewer.bat
+[2026-01-30 05:36:16] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:36:16] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\07_services\disable_services.bat
+[2026-01-30 05:36:16] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:36:16] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\07_services\performance_monitor.bat
+[2026-01-30 05:36:16] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:36:16] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\07_services\recovery_options.bat
+[2026-01-30 05:36:16] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:36:16] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\07_services\restore_defaults.bat
+[2026-01-30 05:36:16] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:36:16] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\07_services\service_accounts.bat
+[2026-01-30 05:36:16] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:36:16] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\07_services\startup_type_manager.bat
+[2026-01-30 05:36:16] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:36:16] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:36:16] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:36:17] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\fix_bat_markdown_issues.bat
+[2026-01-30 05:36:17] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:36:17] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:36:17] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:36:17] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:36:17] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\translate_to_english.bat
+[2026-01-30 05:36:17] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:36:18] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\03_security\04_network_analyzer.BAT
+[2026-01-30 05:36:18] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:36:18] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:36:18] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:36:18] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\03_security\06_malware_detector.BAT
+[2026-01-30 05:36:18] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:36:18] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\dependencies_viewer.bat
+[2026-01-30 05:36:18] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:36:18] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\disable_services.bat
+[2026-01-30 05:36:18] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:36:18] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\performance_monitor.bat
+[2026-01-30 05:36:18] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:36:18] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\recovery_options.bat
+[2026-01-30 05:36:18] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:36:18] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\restore_defaults.bat
+[2026-01-30 05:36:18] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:36:18] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\service_accounts.bat
+[2026-01-30 05:36:18] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:36:18] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\07_services\startup_type_manager.bat
+[2026-01-30 05:36:18] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:36:19] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:36:19] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:36:20] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:36:20] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\backup_20260130_051953\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:36:20] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:36:21] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:36:21] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\backup_20260130_051956\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:36:21] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:36:22] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:36:22] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_051959\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:36:22] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:36:22] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\fix_bat_markdown_issues.bat
+[2026-01-30 05:36:22] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:36:22] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\fix_markdown_issues.bat
+[2026-01-30 05:36:22] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\fix_markdown_issues.bat
+[2026-01-30 05:36:22] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:36:22] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\translate_to_english.bat
+[2026-01-30 05:36:22] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:36:23] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\03_security\04_network_analyzer.BAT
+[2026-01-30 05:36:23] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:36:23] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:36:23] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:36:23] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\03_security\06_malware_detector.BAT
+[2026-01-30 05:36:23] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:36:23] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\07_services\dependencies_viewer.bat
+[2026-01-30 05:36:23] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:36:23] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\07_services\disable_services.bat
+[2026-01-30 05:36:23] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:36:24] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\07_services\performance_monitor.bat
+[2026-01-30 05:36:24] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:36:24] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\07_services\recovery_options.bat
+[2026-01-30 05:36:24] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:36:24] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\07_services\restore_defaults.bat
+[2026-01-30 05:36:24] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:36:24] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\07_services\service_accounts.bat
+[2026-01-30 05:36:24] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:36:24] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\07_services\startup_type_manager.bat
+[2026-01-30 05:36:24] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:36:24] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:36:24] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:36:25] [INFO] Added 1 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\fix_bat_markdown_issues.bat
+[2026-01-30 05:36:25] [INFO] Processed fix_bat_markdown_issues.bat: 1 fixes applied
+[2026-01-30 05:36:25] [INFO] Added 11 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:36:25] [INFO] Fixed 4 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\fix_markdown_issues.bat
+[2026-01-30 05:36:25] [INFO] Processed fix_markdown_issues.bat: 15 fixes applied
+[2026-01-30 05:36:25] [INFO] Added 9 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\translate_to_english.bat
+[2026-01-30 05:36:25] [INFO] Processed translate_to_english.bat: 9 fixes applied
+[2026-01-30 05:36:26] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\03_security\04_network_analyzer.BAT
+[2026-01-30 05:36:26] [INFO] Processed 04_network_analyzer.BAT: 1 fixes applied
+[2026-01-30 05:36:26] [INFO] Fixed 9 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\03_security\05_firewall_configurator.BAT
+[2026-01-30 05:36:26] [INFO] Processed 05_firewall_configurator.BAT: 9 fixes applied
+[2026-01-30 05:36:26] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\03_security\06_malware_detector.BAT
+[2026-01-30 05:36:26] [INFO] Processed 06_malware_detector.BAT: 1 fixes applied
+[2026-01-30 05:36:26] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\07_services\dependencies_viewer.bat
+[2026-01-30 05:36:26] [INFO] Processed dependencies_viewer.bat: 2 fixes applied
+[2026-01-30 05:36:26] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\07_services\disable_services.bat
+[2026-01-30 05:36:26] [INFO] Processed disable_services.bat: 2 fixes applied
+[2026-01-30 05:36:26] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\07_services\performance_monitor.bat
+[2026-01-30 05:36:26] [INFO] Processed performance_monitor.bat: 1 fixes applied
+[2026-01-30 05:36:26] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\07_services\recovery_options.bat
+[2026-01-30 05:36:26] [INFO] Processed recovery_options.bat: 1 fixes applied
+[2026-01-30 05:36:26] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\07_services\restore_defaults.bat
+[2026-01-30 05:36:26] [INFO] Processed restore_defaults.bat: 1 fixes applied
+[2026-01-30 05:36:26] [INFO] Fixed 2 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\07_services\service_accounts.bat
+[2026-01-30 05:36:26] [INFO] Processed service_accounts.bat: 2 fixes applied
+[2026-01-30 05:36:27] [INFO] Fixed 3 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\07_services\startup_type_manager.bat
+[2026-01-30 05:36:27] [INFO] Processed startup_type_manager.bat: 3 fixes applied
+[2026-01-30 05:36:27] [INFO] Fixed 1 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\backup_20260130_052006\backup_20260130_051953\09_system_information\02_hardware_specs_analyzer.bat
+[2026-01-30 05:36:27] [INFO] Processed 02_hardware_specs_analyzer.bat: 1 fixes applied
+[2026-01-30 05:36:28] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:36:28] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\backup_20260130_053314\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:36:28] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:36:28] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:36:28] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\backup_20260130_053434\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:36:28] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:36:29] [INFO] Added 2 blank lines after headings in F:\KNOX_ULTIMATE_TOOLBOX\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:36:29] [INFO] Fixed 6 spacing issues in F:\KNOX_ULTIMATE_TOOLBOX\creative_tools\07_ascii_art_generator.BAT
+[2026-01-30 05:36:29] [INFO] Processed 07_ascii_art_generator.BAT: 8 fixes applied
+[2026-01-30 05:36:29] [INFO] Fixing completed!
+[2026-01-30 05:36:29] [INFO] Total files processed: 3568
+[2026-01-30 05:36:29] [INFO] Total fixes applied: 2224
+[2026-01-30 05:36:29] [INFO] Backup files: 1784
+[2026-01-30 05:36:29] [INFO] Verifying fixes...
+[2026-01-30 05:36:29] [INFO] Scanning for markdown issues...
+[2026-01-30 05:37:12] [INFO] Verification Results:
+[2026-01-30 05:37:12] [INFO]   Code fences without language: 0 remaining
+[2026-01-30 05:37:12] [INFO]   Headings without blank lines (before): 0 remaining
+[2026-01-30 05:37:12] [INFO]   Lists without blank lines (before): 0 remaining
+[2026-01-30 05:37:12] [INFO]   Headings without blank lines (after): 0 remaining
+[2026-01-30 05:37:12] [INFO]   Spacing issues: 0 remaining
+[2026-01-30 05:37:12] [INFO]   Files with issues: 0/3568
+[2026-01-30 05:37:12] [SUCCESS] ✅ ALL ISSUES FIXED!
+[2026-01-30 05:37:12] [INFO] Script completed
